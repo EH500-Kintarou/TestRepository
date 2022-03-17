@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿var hello = "Hello";
+var world = "World";
+
+Console.WriteLine($"{hello}, {world}!");
